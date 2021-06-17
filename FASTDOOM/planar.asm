@@ -16,7 +16,7 @@
 ; DESCRIPTION:
 ;
 	.386
-	.MODEL  small
+	.MODEL  flat
 	INCLUDE defs.inc
 
 .DATA
